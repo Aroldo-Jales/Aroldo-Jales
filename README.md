@@ -1,16 +1,20 @@
-### Hi there 👋
+```python
+class AroldoJales:
+    def __init__(self):
+        self.position = 'Teresina, Piauí, Brazil'
+        self.code = {            
+            'frontend': ['WPF'],
+            'backend': ['C#', 'C++', 'Python', '.NET'],
+            'mobile': ['Flutter'],
+            'database': ['PostgreSQL', 'MySQL'],
+            'tools': ['Git', 'GitHub', 'Bitbucket', 'Visual Studio', 'Sql Server', 'MySqlWorkbench'],
+            'misc': ['Firebase', 'GNU/Linux', 'OpenCv', 'Selenium', 'BeautifulSoup']
+        }
 
-<!--
-**Aroldo-Jales/Aroldo-Jales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    def say_hi(self):
+        print('Hi there. 👋')
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if __name__ == '__main__':
+    me = AroldoJales()
+    me.say_hi()
+```
