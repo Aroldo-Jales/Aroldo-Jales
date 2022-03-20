@@ -4,7 +4,7 @@ class AroldoJales:
         self.position = 'Teresina, Piauí, Brazil'
         self.code = {            
             'frontend': ['WPF'],
-            'backend': ['C#', 'C++', 'Python', '.NET'],
+            'backend': ['C#', 'C++', 'Python'],
             'mobile': ['Flutter'],
             'database': ['PostgreSQL', 'MySQL'],
             'tools': ['Git', 'GitHub', 'Bitbucket', 'Visual Studio', 'Sql Server', 'MySqlWorkbench'],
