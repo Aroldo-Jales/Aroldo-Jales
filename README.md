@@ -18,3 +18,5 @@ if __name__ == '__main__':
     me = AroldoJales()
     me.say_hi()
 ```
+![aesthetic](https://user-images.githubusercontent.com/48775971/159145051-b448818e-7f71-46f7-a7f1-25e70fdd3d0e.gif)
+
