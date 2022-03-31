@@ -7,7 +7,7 @@ class AroldoJales:
             'backend': ['C#', 'C++', 'Python'],
             'mobile': ['Flutter'],
             'database': ['PostgreSQL', 'MySQL'],
-            'tools': ['Git', 'GitHub', 'Bitbucket', 'Visual Studio', 'Sql Server', 'MySqlWorkbench'],
+            'tools': ['Git', 'GitHub', 'Bitbucket', 'Jira', 'Visual Studio', 'Sql Server', 'MySqlWorkbench'],
             'misc': ['Firebase', 'GNU/Linux', 'OpenCv', 'Selenium', 'BeautifulSoup']
         }
 
