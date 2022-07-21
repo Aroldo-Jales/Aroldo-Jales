@@ -3,12 +3,13 @@ class AroldoJales:
     def __init__(self):
         self.position = 'Teresina, Piauí, Brazil'
         self.code = {            
+            'languages': ['C#', 'C++', 'Python'],
             'frontend': ['WPF'],
-            'backend': ['C#', 'C++', 'Python'],
+            'backend': ['ASP.NET'],
             'mobile': ['Flutter'],
-            'database': ['PostgreSQL', 'MySQL'],
-            'tools': ['Git', 'GitHub', 'Bitbucket', 'Jira', 'Visual Studio', 'Sql Server', 'MySqlWorkbench'],
-            'misc': ['Firebase', 'GNU/Linux', 'OpenCv', 'Selenium', 'BeautifulSoup']
+            'database': ['SQL'],
+            'tools': ['Visual Studio', 'Git', 'GitHub', 'Bitbucket', 'Jira', 'Sql Server'],
+            'misc': ['GNU/Linux', 'OpenCv', 'Selenium', 'BeautifulSoup']
         }
 
     def say_hi(self):
