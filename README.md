@@ -5,7 +5,7 @@ class AroldoJales:
         self.code = {            
             'languages': ['C#', 'C++', 'Python'],
             'frontend': ['WPF'],
-            'backend': ['ASP.NET'],
+            'backend': ['.NET'],
             'mobile': ['Flutter'],
             'database': ['SQL'],
             'tools': ['Visual Studio', 'Git', 'GitHub', 'Bitbucket', 'Jira', 'Sql Server'],
