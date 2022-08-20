@@ -8,8 +8,7 @@ class AroldoJales:
             'backend': ['.NET'],
             'mobile': ['Flutter'],
             'database': ['SQL'],
-            'tools': ['Visual Studio', 'Git', 'GitHub', 'Bitbucket', 'Jira', 'Sql Server'],
-            'misc': ['GNU/Linux', 'OpenCv', 'Selenium', 'BeautifulSoup']
+            'tools': ['Visual Studio', 'Git', 'GitHub', 'Bitbucket', 'Jira', 'Sql Server'],            
         }
 
     def say_hi(self):
