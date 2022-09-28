@@ -1,7 +1,6 @@
 ```python
 class AroldoJales:
-    def __init__(self):
-        self.position = 'Teresina, Piauí, Brazil'
+    def __init__(self):        
         self.code = {            
             'languages': ['C#', 'C++', 'Python'],
             'frontend': ['WPF'],
@@ -10,6 +9,7 @@ class AroldoJales:
             'database': ['SQL'],
             'tools': ['Visual Studio', 'Git', 'GitHub', 'Bitbucket', 'Jira', 'Sql Server'],            
         }
+        self.position = 'Teresina, Piauí, Brazil'
 
     def say_hi(self):
         print('Hi there. 👋')
