@@ -2,8 +2,7 @@
 class AroldoJales:
     def __init__(self):        
         self.code = {            
-            'languages': ['C#', 'C++', 'Python'],
-            'frontend': ['WPF'],
+            'languages': ['C#', 'C++', 'Python'],            
             'backend': ['.NET'],
             'mobile': ['Flutter'],
             'database': ['SQL'],
