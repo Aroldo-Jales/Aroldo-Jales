@@ -6,7 +6,7 @@ class AroldoJales:
             'backend': ['.NET'],
             'mobile': ['Flutter'],
             'database': ['SQL'],
-            'tools': ['Visual Studio', 'Git', 'GitHub', 'Trello', 'Sql Server Studio'],            
+            'tools': ['Visual Studio', 'Git', 'GitHub', 'Trello', 'Sql Server Studio']            
         }
         self.position = 'Teresina, Piauí, Brazil'
 
