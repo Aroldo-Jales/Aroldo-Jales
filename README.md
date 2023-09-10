@@ -3,11 +3,8 @@ class AroldoJales:
     def __init__(self):        
         self.code = {            
             'languages': ['C#', 'C++', 'Python'],            
-            'backend': ['.NET'],
-            'mobile': ['Flutter'],
-            'database': ['SQL'],
-            'cloud': ['AWS'],
-            'tools': ['Visual Studio', 'Git', 'GitHub', 'Trello', 'Sql Server Studio']            
+            'frameworks': ['.NET', 'AvaloniaUI'],
+            'tools': ['Git', 'GitHub', 'Visual Studio', 'Trello', 'Sql Server Studio']            
         }
         self.position = 'Teresina, Piauí, Brazil'
 
