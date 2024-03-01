@@ -3,7 +3,7 @@ class AroldoJales:
     def __init__(self):        
         self.code = {            
             'languages': ['C#', 'C++', 'Python'],            
-            'frameworks': ['.NET', 'AvaloniaUI', 'Docker'],
+            'frameworks': ['.NET', 'WPF', 'Docker'],
             'tools': ['Git', 'GitHub', 'Visual Studio', 'Figma' 'Trello', 'Sql Server Studio']            
         }
         self.position = 'Teresina, Piauí, Brazil'
